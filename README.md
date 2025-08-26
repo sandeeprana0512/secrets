@@ -29,8 +29,8 @@ A simple web app that fetches and displays random secrets with usernames using E
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/sandeeprana0512/secrets.git
+   cd secrets
 
 2. Install dependencies:
 
